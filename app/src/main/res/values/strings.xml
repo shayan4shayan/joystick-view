@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="speed">speed</string>
+    <string name="zero">0</string>
+    <string name="ten">10</string>
+</resources>
